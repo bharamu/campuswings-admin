@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: 'moonface_scriptbold';
+    src: url('moonface_script-webfont.eot');
+    src: url('moonface_script-webfont.eot?#iefix') format('embedded-opentype'),
+         url('moonface_script-webfont.woff2') format('woff2'),
+         url('moonface_script-webfont.woff') format('woff'),
+         url('moonface_script-webfont.ttf') format('truetype'),
+         url('moonface_script-webfont.svg#moonface_scriptbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
