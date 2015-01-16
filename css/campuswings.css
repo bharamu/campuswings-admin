@@ -385,10 +385,11 @@ img.logo_text{
   line-height: 1.1em;
   margin: 0;
   padding-top: 10px;
+  padding-right: 20px;
 }
 .social_media {
   /*display: block;*/
-  left: 38%;
+  left: 40%;
   position: absolute;
   /*margin: 0 auto;*/
 
@@ -620,9 +621,22 @@ p {
   border-bottom: 2px solid #f17265;
   border-top: 2px solid #f17265;
 }
+.adminDashboardMobile-img{
+  margin: 65px auto;
+}
 @media only screen and (min-width: 320px) and (max-width:480px){
+  .dashboard-div{
+    height:auto;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  .adminDashboardMobile-img{
+    position: relative;
+    top: 62px;
+    margin: auto auto;
+  }
   .founder{
-    margin-top: 85px;
+    margin: 10px auto;
     padding: 10px 20px;
     width: 100%;
   }
@@ -652,14 +666,14 @@ p {
       max-width: 200px;
       font-size: 25px;
     }
-    #soc-med h2{
+    #soc-med h2 {
       color: #FFF;
       font-family: "raleway";
       font-size: 28px;
       font-weight: 400;
       margin: 0px;
     }
-    #soc-med h3{
+    #soc-med h3 {
       color: #FFF;
       font-family: "raleway";
       font-size: 20px;
@@ -667,9 +681,10 @@ p {
       line-height: 1.1em;
       margin: 0px;
       padding-top: 10px;
+      padding-right: 20px;
     }
     .social_media{
-      left: 10%;
+      left: 8%;
     }
   .better_content_footer .intrest {
       color: #ffffff;
@@ -688,14 +703,21 @@ p {
     .intrest .register:hover {
       font-size: 15px;
     }
-    .founder{
-      margin-top:35px;
-    }
+   
 }
 @media only screen and (min-width: 768px) and (max-width:1024px){
+  .dashboard-div{
+    height: auto;
+  }
+  .adminDashboardMobile-img{
+    position: relative;
+    top: 94px;
+    margin: auto;
+  }
   .founder{
     width: 100%;
     padding: 10px 20px;
+    margin: 38px auto;
   }
   .bottom_chk p{
     width: 100%;

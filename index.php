@@ -81,7 +81,7 @@
 		<div class="row dashboard-div">
 			<div class="col-md-12">
 				<div class="adminDashboard-div">
-				 <img class="adminDashboard-img image-responsive center-block"src="img/Campuswings_admin_Dashboard_fynal_02.png">
+				 <img class="adminDashboard-img img-responsive center-block"src="img/Campuswings_admin_Dashboard_fynal_02.png">
 				</div>
 			</div>
 		</div>
@@ -135,7 +135,7 @@
 		<div class="row dashboard-div">
 			<div class="col-md-12">
 				<div class="admindshboard-div">
-					<img class="adminDashboard-img img-responsive center-block" src="img/Campuswings_admin_Dashboard_fynal_06.png">
+					<img class="adminDashboardMobile-img img-responsive center-block" src="img/Campuswings_admin_Dashboard_fynal_06.png">
 				</div>
 			</div>
 		</div>
@@ -148,7 +148,7 @@
 		<div class="row dashboard-div">
 			<div class="col-md-12">
 				<div class="admindshboard-div">
-					<img class="adminDashboard-img imag-responsive center-block" src="img/Campuswings_admin_Dashboard_fynal_07.png">
+					<img class="adminDashboard-img img-responsive center-block" src="img/Campuswings_admin_Dashboard_fynal_07.png">
 				</div>
 			</div>
 		</div>
@@ -174,7 +174,7 @@
 		<div class="row dashboard-div">
 			<div class="col-md-12">
 				<div class="admindshboard-div">
-					<img class="adminDashboard-img img-responsive center-block" src="img/Campuswings_admin_Dashboard_fynal_09.png">
+					<img class="adminDashboardMobile-img img-responsive center-block" src="img/Campuswings_admin_Dashboard_fynal_09.png">
 				</div>
 			</div>
 		</div>
