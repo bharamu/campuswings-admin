@@ -71,24 +71,8 @@ svg:not(:root) {
   line-height: 54px;
   font-weight: 400;
 }
-.better_main h2 {
-  font-size: 33px;
-  font-weight: bold;
-  line-height: 40px;
-  margin-bottom: 15px;
-  text-align: center;
-  text-transform: uppercase;
-  font-family: 'Montserrat';
-  color: #ef5949;
-}
-.better_main P {
-  text-align: center;
-  font-size: 25px;
-  margin-bottom: 100px;
-  font-family: 'raleway';
-  color: #ef5949;
-}
-.better_content h2, .better_content_footer h2 {
+
+ .better_content_footer h2 {
   font-size: 33px;
   font-weight: bold;
   line-height: 40px;
@@ -104,16 +88,14 @@ svg:not(:root) {
   text-transform: none;
   font-size: 50px;
 }
-.better_content p, .better_content_footer p {
+ .better_content_footer p {
   text-align: left;
   font-size: 25px;
   font-family: 'raleway';
  /* color: #ef5949;*/
   text-align: center;
 }
-.better_content .row {
-  margin-bottom: 100px;
-}
+
 .row.bottom_chk {
   background: url('../img/Campuswings_admin_Dashboard_fynal_12.png');
   height:500px;
@@ -151,13 +133,7 @@ svg:not(:root) {
 body, html {
   height: 100%;
 }
-.better_header {
-  background-image: url('../img/better_01.png');
-  background-position: 0 top;
-  background-size: cover;
-  height: 658px;
-  width: 100%;
-}
+
 /*.frame{
     background-image: url('../img/frame.png');
   background-position: left top;
@@ -166,79 +142,6 @@ body, html {
   height: 812px;
   width: 100%;
 }*/
-
-img.mob_frame {
-  height: 222px;
-  width: 222px;
-  margin: 0 auto;
-  display: block;
-}
-img.logo_text{
-  height: 189px;
-  width: 769px;
-  margin: 0 auto;
-  display: block;
-}
-.campus_container{
-  bottom: 0;
-  height: 412px;
-  left: 0;
-  margin: auto;
-  position: absolute;
-  right: 0;
-  top: 0;
-  z-index: 2;
-}
-.better_logo {
-  bottom: 0;
-  height: 183px;
-  left: 0;
-  margin: -350px auto 0;
-  position: absolute;
-  right: 0;
-  top: 25%;
-  z-index: 1;
-}
-.div_height {
-  height: 550px
-}
-.mob_view {
-  height: 550px;
-  margin: 0 auto;
-  z-index: 2;
-  /*    bottom: 0;
-    height: 550px;
-    left: 0;
-    margin: 0 auto;
-    position: absolute;
-    right: 0;
-    top: 25%;
-    z-index: 2;*/
-}
-.footer_btn1 {
-  float: left;
-  padding-left: 50px;
-  margin-top: 160px;
-}
-.footer_btn2 {
-  float: right;
-  padding-right: 50px;
-}
-.footer_btn3 {
-  clear: both;
-  float: right;
-  margin-top: 245px;
-  padding-right: 50px;
-}
-.footer_img {
-  height: 350px;
-  left: 44%;
-  margin-top: 40px;
-  position: absolute;
-}
-.footer_height {
-  height: 500px;
-}
 #div_one .mob_pop.fadeUp, #div_two .mob_pop.fadeUp, #div_three .mob_pop.fadeUp, #div_four .mob_pop.fadeUp, #div_five .mob_pop.fadeUp {
   animation: popout 1s ease;
   -webkit-animation: popout 1s ease;
@@ -265,10 +168,7 @@ img.logo_text{
     -webkit-transform: scale(1)
   }
 }
-.top_footer {
-  height: 650px;
-  overflow: hidden;
-}
+
 .footer_mob1 {
   left: 0;
   position: absolute;
@@ -327,18 +227,6 @@ img.logo_text{
 .founder {
   margin-top: 56px;
   width: 50%;
-}
-.quote_start {
-  height: 68px;
-  left: 10%;
-  position: absolute;
-  top: 36%;
-}
-.quote_end {
-  height: 68px;
-  right: 10%;
-  position: absolute;
-  top: 36%;
 }
 .founder > h2 {
   font-family: 'raleway';
@@ -475,9 +363,6 @@ a.register:hover {
   right: 0;
   background-color: #ef5949;
   z-index: 1001;
-}
-.hide-slider {
-  overflow: hidden;
 }
 .spinner {
   /*background-color: #333;*/
