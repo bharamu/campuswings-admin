@@ -436,7 +436,7 @@ a.register:hover {
   width: 100%;
   z-index: 20;
 }
-.footer {
+div.div_footer p.footer {
   color: #868686;
   font-family: 'lato';
   font-size: 15px;
